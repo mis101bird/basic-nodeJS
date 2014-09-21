@@ -20,3 +20,4 @@ route.js處理分配local文件的問題<br/>
 database:test<br/>
 collections:<br/>
 myboard - 存留言板的留言資料<br/>
+參考網站:http://www.nodebeginner.org/index-zh-tw.html
